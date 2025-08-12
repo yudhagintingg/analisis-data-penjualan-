@@ -2,7 +2,7 @@
 
 Berikut adalah dashboard yang berisi analisis penjualan dari data toko online.
 
-![Dashboard Analisis Penjualan](https://github.com/yudhaginting/analisis-data-penjualan/blob/main/Dashboard 1.png.)
+![Dashboard Analisis Penjualan](https://github.com/yudhagintingg/analisis-data-penjualan-/blob/main/Dashboard%201.png)
 
 ## Ringkasan Analisis
 
